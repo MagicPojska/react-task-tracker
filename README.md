@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Add and remove tasks.
 
-You can see the site [here](https://task-tracker-react-ap.netlify.app/)
+You can see the site [here](https://react-task-tracker-opal.vercel.app/)

@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Add and remove tasks.
 
-You can see the site [here](https://react-task-tracker-opal.vercel.app/)
+Download repo and run npm run server to initiate DB mock server to use the app.
